@@ -5,4 +5,4 @@
 
 [![muriloGervasio' Activity Graph](https://activity-graph.herokuapp.com/graph?username=muriloGervasio&custom_title=muriloGervasio's%20Contribution%20Graph&theme=dracula&line=d1a01f&point=c58545)](https://github.com/muriloGervasio/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloRodrigues)](https://github.com/muriloRodrigues/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloGervasio&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
